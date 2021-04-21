@@ -1,0 +1,9 @@
+D:\Source\C#\Helper\MultiLanguageHelper\Source\Core\bin\Debug\netstandard2.1\MultiLanguage.Core.deps.json
+D:\Source\C#\Helper\MultiLanguageHelper\Source\Core\bin\Debug\netstandard2.1\MultiLanguage.Core.dll
+D:\Source\C#\Helper\MultiLanguageHelper\Source\Core\bin\Debug\netstandard2.1\MultiLanguage.Core.pdb
+D:\Source\C#\Helper\MultiLanguageHelper\Source\Core\obj\Debug\netstandard2.1\MultiLanguage.Core.csprojAssemblyReference.cache
+D:\Source\C#\Helper\MultiLanguageHelper\Source\Core\obj\Debug\netstandard2.1\MultiLanguage.Core.AssemblyInfoInputs.cache
+D:\Source\C#\Helper\MultiLanguageHelper\Source\Core\obj\Debug\netstandard2.1\MultiLanguage.Core.AssemblyInfo.cs
+D:\Source\C#\Helper\MultiLanguageHelper\Source\Core\obj\Debug\netstandard2.1\MultiLanguage.Core.csproj.CoreCompileInputs.cache
+D:\Source\C#\Helper\MultiLanguageHelper\Source\Core\obj\Debug\netstandard2.1\MultiLanguage.Core.dll
+D:\Source\C#\Helper\MultiLanguageHelper\Source\Core\obj\Debug\netstandard2.1\MultiLanguage.Core.pdb

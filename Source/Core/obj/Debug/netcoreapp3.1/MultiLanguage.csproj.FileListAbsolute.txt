@@ -1,0 +1,9 @@
+D:\Source\C#\Helper\General\MultiLanguage\obj\Debug\netcoreapp3.1\MultiLanguage.csprojAssemblyReference.cache
+D:\Source\C#\Helper\General\MultiLanguage\obj\Debug\netcoreapp3.1\MultiLanguage.AssemblyInfoInputs.cache
+D:\Source\C#\Helper\General\MultiLanguage\obj\Debug\netcoreapp3.1\MultiLanguage.AssemblyInfo.cs
+D:\Source\C#\Helper\General\MultiLanguage\obj\Debug\netcoreapp3.1\MultiLanguage.csproj.CoreCompileInputs.cache
+D:\Source\C#\Helper\General\MultiLanguage\bin\Debug\netcoreapp3.1\MultiLanguage.deps.json
+D:\Source\C#\Helper\General\MultiLanguage\bin\Debug\netcoreapp3.1\MultiLanguage.dll
+D:\Source\C#\Helper\General\MultiLanguage\bin\Debug\netcoreapp3.1\MultiLanguage.pdb
+D:\Source\C#\Helper\General\MultiLanguage\obj\Debug\netcoreapp3.1\MultiLanguage.dll
+D:\Source\C#\Helper\General\MultiLanguage\obj\Debug\netcoreapp3.1\MultiLanguage.pdb

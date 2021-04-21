@@ -1,0 +1,12 @@
+D:\Source\C#\Helper\General\MultiLanguageMvc\bin\Release\netcoreapp3.1\MultiLanguage.AspNetCore.deps.json
+D:\Source\C#\Helper\General\MultiLanguageMvc\bin\Release\netcoreapp3.1\MultiLanguage.AspNetCore.dll
+D:\Source\C#\Helper\General\MultiLanguageMvc\bin\Release\netcoreapp3.1\MultiLanguage.AspNetCore.pdb
+D:\Source\C#\Helper\General\MultiLanguageMvc\bin\Release\netcoreapp3.1\MultiLanguage.dll
+D:\Source\C#\Helper\General\MultiLanguageMvc\bin\Release\netcoreapp3.1\MultiLanguage.pdb
+D:\Source\C#\Helper\General\MultiLanguageMvc\obj\Release\netcoreapp3.1\MultiLanguage.AspNetCore.csprojAssemblyReference.cache
+D:\Source\C#\Helper\General\MultiLanguageMvc\obj\Release\netcoreapp3.1\MultiLanguage.AspNetCore.AssemblyInfoInputs.cache
+D:\Source\C#\Helper\General\MultiLanguageMvc\obj\Release\netcoreapp3.1\MultiLanguage.AspNetCore.AssemblyInfo.cs
+D:\Source\C#\Helper\General\MultiLanguageMvc\obj\Release\netcoreapp3.1\MultiLanguage.AspNetCore.csproj.CoreCompileInputs.cache
+D:\Source\C#\Helper\General\MultiLanguageMvc\obj\Release\netcoreapp3.1\MultiLanguage.AspNetCore.csproj.CopyComplete
+D:\Source\C#\Helper\General\MultiLanguageMvc\obj\Release\netcoreapp3.1\MultiLanguage.AspNetCore.dll
+D:\Source\C#\Helper\General\MultiLanguageMvc\obj\Release\netcoreapp3.1\MultiLanguage.AspNetCore.pdb
